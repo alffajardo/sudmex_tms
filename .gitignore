@@ -1,4 +1,3 @@
 sub*.html
-sub*/
-sub*/anat
-sub/func
+sub-*/*
+sub-???
